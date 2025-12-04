@@ -11,3 +11,6 @@ int main(){
         n--;
     }
 }
+
+
+//lubie placki
